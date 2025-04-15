@@ -21,3 +21,4 @@ This page is provided to verify the authenticity of a certificate issued to:
 This certificate was earned after completing professional-level coursework in programming and development.
 
 🔗 Created and shared by the certificate holder to make credentials public and verifiable.
+![Apr 15, 2025, 02_42_20 PM](https://github.com/user-attachments/assets/2f340046-0f9c-4969-bdd6-9c44284431ad)
